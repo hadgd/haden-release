@@ -1,0 +1,10 @@
+{
+	"version": "0.9.0",
+	"pub_date": "2026-10-19T14:42:24.843Z",
+	"platforms": {
+		"linux-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMjRGWFdQL21NR3U1RC8zbkZZanZ2VmNjeHVKVWp1eFk3b2tyTDhpSUFhUjRuTmcxckZvd1Nkbko2VGlRMmN2dzFjbTdFdjRuYWdhT0RyditOMDVSSDVBL0pDb0hyT1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDE4OTkxCWZpbGU6SGFkZW5fMC45LjBfYW1kNjQuQXBwSW1hZ2UKbDhnUkgxRDNTeHJ3Vzh0SW1xYWxZSEs1ZFRlUm8wT0dRNjJtczN5NEk1bTJKY21XYndGQVZXa1JvU3JDMUpnNmRMKzhPRkt5WEJLS0ZOVGNCd1JOQ0E9PQo=",
+			"url": "https://github.com/hadgd/haden-release/releases/download/v0.9.0/Haden_0.9.0_amd64.AppImage"
+		}
+	}
+}
