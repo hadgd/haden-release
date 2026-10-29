@@ -1,10 +1,10 @@
 {
-	"version": "0.11.2",
-	"pub_date": "2026-10-29T15:01:24.174Z",
+	"version": "0.11.3",
+	"pub_date": "2026-10-29T15:21:46.528Z",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMjRGWFdQL21NR2pDaVdlRjU5cHZZYXZOZG44RkgwVFQ5bEZxSlZIenFreWY0aGJmQXZGSW9pTnYwQTZvSVl3UFBoWVF0TTcrdXdleVVTdDFmSDFHZkJyY1ZUYkRCa0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjM2NDA3CWZpbGU6SGFkZW5fMC4xMS4yX3g2NC1zZXR1cC5leGUKeFUxUDhLNU1OZWpLVDJ2d1h6M2V2QTZOcTJKRUI1V1BoMmJGZnBaQW1FOUtnck5OenVUZ2E3VFQ3WldRWWFiT3ptazNkQVBuZm1aWTNISkk4YUJSQWc9PQo=",
-			"url": "https://github.com/hadgd/haden-release/releases/download/v0.11.2/Haden_0.11.2_x64-setup.exe"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMjRGWFdQL21NR3NHWm9EZXZZWUxFZkFCQ0R1YXpHaG00TVY5cFp6c25YL2xhSWRjSDMzY0ZPOUpnUEVvTnhHaUxRYURsQngweFZ6a2p1MmRacFFJeWhrdFBJcUNxRVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjg3MDUyCWZpbGU6SGFkZW5fMC4xMS4zX3g2NC1zZXR1cC5leGUKbUovNXBJb1ZqTGFxV1p2VzFpRnluVFJETVlEQzZ5TG45TDVvY2J1eFR1YitUd0FadG02SmZVZ0FKZ1Y1WnJFdjMrb2lzTWIvNFgwdnNQalg5ak1iQnc9PQo=",
+			"url": "https://github.com/hadgd/haden-release/releases/download/v0.11.3/Haden_0.11.3_x64-setup.exe"
 		}
 	}
 }
