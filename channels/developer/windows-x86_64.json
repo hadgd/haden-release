@@ -1,14 +1,14 @@
 {
-	"version": "0.23.1",
-	"pub_date": "2026-11-07T18:27:15.762Z",
+	"version": "0.25.0",
+	"pub_date": "2026-11-16T20:14:54.459Z",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMjRGWFdQL21NR3RRRHorYzExenpOdEZVeEQ2SkVKRkM3V2tJcXJLbXdEWkZaTU4zNFBPakYycENvWE5YdUQ3WHR3OHExa2Q1M3d0WmVwMUdIZlRBRFdDTFAvWUx1a1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDc1NTM4CWZpbGU6SGFkZW5fMC4yMy4xX3g2NC1zZXR1cC5leGUKZnpmM3FsTHExbG9JNlYydnB5TU0raStzV0o2Z1ZnUlNqREVreEdNc3pqbDQxL0cxeEtuV0RUQUpBOWgxSElMU3l4M2FreFUzTzR5YWVMNVZKL3g4QVE9PQo=",
-			"url": "https://github.com/hadgd/haden-release/releases/download/v0.23.1/Haden_0.23.1_x64-setup.exe"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMjRGWFdQL21NR3Zselh6cjlaY0hEdW1rQ2FmZVA4MGROVU9LSEZPV1JJc1pXYUQ5Q2hwNE9jcWdsaXI0cENTNDkzRkJqd0lkQkJQeC9oTUwrOW9wTGRzYmt5b1R6Y3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU5NTM5CWZpbGU6SGFkZW5fMC4yNS4wX3g2NC1zZXR1cC5leGUKWWNSOW9OTENwUTRPTCtBNXIxaEp3dHR6VGVKSHQzQkNRWGtxNGRtNDlrR1pHUGhOeFlhMHA1UU94Vjk0MEhDQ2loTDgyYzNrWXppd0VXOHo2Y1lOQ1E9PQo=",
+			"url": "https://github.com/hadgd/haden-release/releases/download/v0.25.0/Haden_0.25.0_x64-setup.exe"
 		},
 		"windows-x86_64-payload": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMjRGWFdQL21NR3FPd1puT1RiNHBTUUI4ZWsxdXJuL284UEwzZ1hQM3BxcysxZHdYK3RxSjRjNjdCeU80ZUFGMEp3bFUxb0NnT0hScnJPWGZZWjgwSXpVMnA4V0tMNEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDc1NjA5CWZpbGU6SGFkZW5fMC4yMy4xX3g2NC1wYXlsb2FkLnRhci5negpGRlBhQjdaL1krRE4rSTNzbHlPZUxtOUlBSXc4UnQrZGJjSlc3Z0grdStwelBIL3NUSDU2em0yU2twYnRUS21DSm01bmxwelRGSHdjZ0E4TWNkYi9CZz09Cg==",
-			"url": "https://github.com/hadgd/haden-release/releases/download/v0.23.1/Haden_0.23.1_x64-payload.tar.gz"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMjRGWFdQL21NR3YwRmZFZ2YyY1BBYjNid09rTTAvZjJWN1Q2N2hpUk0zQnJ4ZVhiL21iNjhMQzM1SWQrR2ZKL1FFdkhBSjRuM1liS2thWkVwMkhYRXcvZ3ZFZjJZOGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU5NjAwCWZpbGU6SGFkZW5fMC4yNS4wX3g2NC1wYXlsb2FkLnRhci5negpxMzlRSW9tY3NtQXA4ajZNQkVyZFdabDUyT2psYlowWTFlai9MclVUMlVnREY4QVliMEhDV1hiTVVEVzFjOUwyNVoySVZSbkViQkZxa1hiMFBUK0pDUT09Cg==",
+			"url": "https://github.com/hadgd/haden-release/releases/download/v0.25.0/Haden_0.25.0_x64-payload.tar.gz"
 		}
 	}
 }
